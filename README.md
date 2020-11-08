@@ -17,4 +17,4 @@ The specifications for the assignment were:
  2. Additionally, students should build a simple Graphical User Interface (GUI) for the operation of this mission using TKinter and Python.
  
  
- NOTE: I could not figure out the fourth part of Q1 before the deadline :( 
+ NOTE: I could not figure out the geofencing or the google maps part before the deadline.
